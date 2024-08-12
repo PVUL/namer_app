@@ -1,6 +1,9 @@
 # namer_app
 
-A new Flutter project.
+It's been awhile since I've touched flutter, and I'm brand new to Flutter Web. Followed the tutorial available on [Google Codelabs](https://codelabs.developers.google.com/codelabs/flutter-codelab-first). Excited to code once and build on all platforms (iOS, Android, Web, Desktop)
+
+Screenshot:
+![](./screenshot.png)
 
 ## Getting Started
 
