@@ -5,6 +5,12 @@ It's been awhile since I've touched flutter, and I'm brand new to Flutter Web. F
 Screenshot:
 ![](./screenshot.png)
 
+## How to run
+1. In VS Code you can click debug, and a chrome window should pop up.
+2. In terminal, type `flutter run -d chrome`, then chrome should pop open `http://localhost:55802/`. I've noticed it hangs sometimes, so just refresh, and it should be fine.
+
+Note: if #2 approach taken, hot reload is not applied, so you must press 'r' in terminal for browser changes to take effect.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
