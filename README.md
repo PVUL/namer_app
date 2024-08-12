@@ -11,6 +11,11 @@ Screenshot:
 
 Note: if #2 approach taken, hot reload is not applied, so you must press 'r' in terminal for browser changes to take effect.
 
+## Tips
+I learned that VS Code tooling is important for Flutter dev. For example `⌘ + .` will open the "Quick Fix" menu. It's super helfpul for converting a stateless widget into a stateful widget in a single click.
+
+ref: https://medium.com/flutter-community/flutter-visual-studio-code-shortcuts-for-fast-and-efficient-development-7235bc6c3b7d
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
